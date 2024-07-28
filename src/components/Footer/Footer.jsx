@@ -9,6 +9,7 @@ import {
 } from "react-icons/fa";
 import NatureVid from "../../assets/video/footer.mp4";
 import { Link } from "react-router-dom";
+import FAQ from "../FAQ";
 
 const FooterLinks = [
   {
@@ -48,6 +49,7 @@ const Footer = () => {
                 <img src={FooterLogo} alt="" className="max-h-[60px]" />
                 {/* TravelloGo */}
               </h1>
+
               <p className="text-sm">
                 Popularly known as ‘Land of Dawn-lit-Mountains’, Arunachal
                 Pradesh is India’s remotest state and the first Indian soil to

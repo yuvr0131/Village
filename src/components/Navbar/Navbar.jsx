@@ -15,6 +15,11 @@ export const NavbarLinks = [
     link: "/about",
   },
   {
+    name: "Contact Us",
+    link: "/Contact",
+  },
+
+  {
     name: "Blogs",
     link: "/blogs",
   },
@@ -31,7 +36,7 @@ const DropdownLinks = [
   },
   {
     name: "Govt.Dept.",
-    link: "/#mobile_brands",
+    link: "/#BlogsComp",
   },
   {
     name: "Location",
@@ -81,6 +86,11 @@ const Navbar = ({ handleOrderPopup }) => {
                 <li className="py-4">
                   <NavLink to="/about" activeClassName="active">
                     About Us
+                  </NavLink>
+                </li>
+                <li className="py-4">
+                  <NavLink to="/Contact" activeClassName="active">
+                    Contact Us
                   </NavLink>
                 </li>
 

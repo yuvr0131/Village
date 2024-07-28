@@ -1,5 +1,6 @@
 import React from "react";
 import BlogsComp from "../components/Blogs/BlogsComp";
+import Contact from "./Contact";
 import Location from "../components/Location/Location";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -38,6 +39,7 @@ function About() {
         </Slider>
         <Location />
         <BlogsComp />
+        <Contact />
       </div>
     </div>
   );
