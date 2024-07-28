@@ -148,7 +148,7 @@ const Footer = () => {
           </div>
           <div>
             <div className="text-center py-5 border-t-2 border-gray-300/50 bg-primary text-white">
-              @copyright 2024 All rights reserved || Made by Yuvraj & Co
+              @copyright 2024 All rights reserved || Made by Yuvraj Singh & Co
             </div>
           </div>
         </div>
