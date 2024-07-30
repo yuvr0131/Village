@@ -3,7 +3,7 @@ OVERVIEW:
 The Village Tourism Website is a comprehensive web application designed to showcase the facilities and attractions of my village. The primary goal is to aid villagers by providing essential information and to attract tourists by highlighting the best places to visit and the unique aspects of the village. This project leverages modern web development technologies to create an engaging and responsive user experience.
 
 SCREENSHOTS:
- ![Image Alt]()
+ ![Image Alt](https://github.com/yuvr0131/Village/blob/main/Screenshot%20(477).png?raw=true)
   ![Image Alt]()
    ![Image Alt]()
     ![Image Alt]()
