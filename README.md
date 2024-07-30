@@ -4,7 +4,7 @@ The Village Tourism Website is a comprehensive web application designed to showc
 
 SCREENSHOTS:
  ![Image Alt](https://github.com/yuvr0131/Village/blob/main/Screenshot%20(477).png?raw=true)
-  ![Image Alt]()
+  ![Image Alt](https://github.com/yuvr0131/Village/blob/main/Screenshot%20(478).png?raw=true)
    ![Image Alt]()
     ![Image Alt]()
 
