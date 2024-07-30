@@ -32,7 +32,7 @@ const Contact = () => {
         style={{ margin: "25px 85px 75px 100px" }}
         onSubmit={sendEmail}
       >
-        <label>name</label>
+        <label>Name</label>
         <input type="text" name="name" className="form-control" />
 
         <label>Email</label>
